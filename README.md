@@ -2,11 +2,11 @@
 - 👀 I’m interested in AWS, Python, DevOps
 - 🌱 I’m currently learning Full Stack Development.
 - 💞️ I’m looking to collaborate on Full Stack Development
-- 📫 How to reach me 
-						LinkedIn : https://www.linkedin.com/in/karthik-avula/ \n
-						Instagram : https://www.instagram.com/_cartic/
-						Twitter : https://twitter.com/avula_karthik
-						mail: karthikavula32@gmail.com
+- 📫 How to reach me : <br />
+						LinkedIn : https://www.linkedin.com/in/karthik-avula/ <br />
+						Instagram : https://www.instagram.com/_cartic/ <br />
+						Twitter : https://twitter.com/avula_karthik <br />
+						mail: <a href=mailto:karthikavula32@gmail.com>karthikavula32@gmail.com</a> <br />
 
 
 <!---
