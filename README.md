@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karthikavula-wal
-- 👀 I’m interested in AWS, Python, DevOps
+- 👀 I’m interested in MERNStack Development, AWS, Python, DevOps
 - 🌱 I’m currently learning Full Stack Development.
 - 💞️ I’m looking to collaborate on Full Stack Development
 - 📫 How to reach me : <br />
