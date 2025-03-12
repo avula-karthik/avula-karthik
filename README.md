@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karthikavula-wal
-- 👀 I’m interested in MERNStack Development, AWS, DevOps
-- 🌱 I’m currently learning Full Stack Development.
-- 💞️ I’m looking to collaborate on Full Stack Development
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently in path: DevOps, MERN.
+- 💞️ I’m looking to collaborate on DevOps & Full Stack Development
 - 📫 How to reach me : <br />
 						LinkedIn : https://www.linkedin.com/in/karthik-avula/ <br />
 						Instagram : https://www.instagram.com/_cartic/ <br />
